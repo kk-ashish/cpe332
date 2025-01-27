@@ -5,7 +5,7 @@
 
 ---
 
-**Coding languages I am familiar with:**
+**Coding *languages* I am familiar with:**
 1.  C++
    `cout << "Hello, World!;`
 2.  Python

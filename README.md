@@ -7,7 +7,7 @@
 
 **Coding *languages* I am familiar with:**
 1.  C++
-   `cout << "Hello, World!;`
+   `cout << "Hello, World!";`
 2.  Python
    `print("Hello, World!")`
 3.  Java

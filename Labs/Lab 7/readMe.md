@@ -1,3 +1,5 @@
+# Lab 7
+
 ## Running ThingSpeak
 
 ![alt text](<Screenshot 2025-04-27 184630.png>)  

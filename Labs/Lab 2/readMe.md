@@ -1,3 +1,5 @@
+# Lab 2
+
 ![alt text](<Screenshot 2025-04-10 223748.png>)  
 
 ![alt text](<Screenshot 2025-04-10 223819.png>)  
